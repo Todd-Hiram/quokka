@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cdfa086-52ef-4a38-a052-dd9c1338dff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/idea/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka-ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka.egg-info/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/controller/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/controller/device_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/models/apis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/sim/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quokka/workers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quokka/controller/device/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quokka/controller/device/device_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quokka/controller/device/device_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quokka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/quokka.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quokka/controller/device_info.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +34,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/quokka/controller/device" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quokka/controller/device" />
       <recent name="$PROJECT_DIR$/" />
     </key>
   </component>
@@ -91,6 +86,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
